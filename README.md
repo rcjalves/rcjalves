@@ -107,6 +107,23 @@ Sou apaixonado por tecnologia e estou sempre em busca de **novas conexões** e *
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Playwright" 
+    title="Playwright"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://playwright.dev/img/playwright-logo.svg" 
+/>
+<img 
+    align="left" 
+    alt="Robot Framework" 
+    title="Robot Framework"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/robotframework.svg" 
+/>
 <img 
     align="left" 
     alt="PostgreSQL"
