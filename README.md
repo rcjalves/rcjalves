@@ -126,6 +126,14 @@ Sou apaixonado por tecnologia e estou sempre em busca de **novas conexões** e *
 />
 <img 
     align="left" 
+    alt="Cypress" 
+    title="Cypress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cypress.svg" 
+/>
+<img 
+    align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
     width="30px" 
